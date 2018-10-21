@@ -1,0 +1,25 @@
+tf_files/dataset_min/Tomato_Spider_Mite_Damage/9ebfbe4c-8615-4aa4-8288-3855e9555fb5___Com.G_SpM_FL 9588.JPG  tomato healthy 
+tf_files/dataset_min/Tomato_Spider_Mite_Damage/5bad9c7d-db56-488a-9f62-6fe285b511a3___Com.G_SpM_FL 1439.JPG  tomato leaf mold 
+tf_files/dataset_min/Tomato_Bacterial_Spot/9be85690-9fdb-4ddd-b007-686bc4074786___GCREC_Bact.Sp 5780.JPG  tomato spider mite damage 
+tf_files/dataset_min/Tomato_Bacterial_Spot/8d79a02d-108c-4edc-ba25-9eb38a107093___UF.GRC_BS_Lab Leaf 0560.JPG  tomato late blight 
+tf_files/dataset_min/Tomato_Bacterial_Spot/2b2d8d17-9ce4-467b-986d-adab29aab3e2___GCREC_Bact.Sp 5908.JPG  tomato spider mite damage 
+tf_files/dataset_min/Tomato_Early_Blight/5bb67c87-9449-4365-aad2-0763164a608b___RS_Erly.B 7460.JPG  tomato spider mite damage 
+tf_files/dataset_min/Tomato_Early_Blight/8eba4e89-f5bf-45d4-be9b-30dfde83f538___RS_Erly.B 7586.JPG  tomato bacterial spot 
+tf_files/dataset_min/Tomato_Early_Blight/81c427f2-5e52-43e2-a000-0a2a973e18f6___RS_Erly.B 7769.JPG  tomato healthy 
+tf_files/dataset_min/Tomato_Early_Blight/73f4d791-745e-49b8-82d8-e29b24ddd0e5___RS_Erly.B 7593.JPG  tomato yellow leaf curl virus 
+tf_files/dataset_min/Tomato_Early_Blight/1b4a2ad5-057d-4fac-9188-648edbe49751___RS_Erly.B 7767.JPG  tomato healthy 
+tf_files/dataset_min/Tomato_Late_Blight/7dbd4aab-b307-435c-90bb-7a358eba9814___RS_Late.B 6617.JPG  tomato leaf mold 
+tf_files/dataset_min/Tomato_Late_Blight/8f96e29c-d210-47a7-bdcb-e87821bb66c8___RS_Late.B 6872.JPG  tomato early blight 
+tf_files/dataset_min/Tomato_Late_Blight/25de48a3-1b15-42cd-9e6c-795207f252c8___RS_Late.B 5237.JPG  tomato early blight 
+tf_files/dataset_min/Tomato_Late_Blight/8fa2b785-6eba-47c3-aeb3-139ebe284185___RS_Late.B 4954.JPG  tomato leaf mold 
+tf_files/dataset_min/Tomato_Late_Blight/4e634785-ec5c-43b9-a352-9c9deb88b117___RS_Late.B 7095.JPG  tomato early blight 
+tf_files/dataset_min/Tomato_Late_Blight/7e4224e3-dd76-4041-8fe2-c9abf67d3a98___RS_Late.B 6630.JPG  tomato early blight 
+tf_files/dataset_min/Tomato_Late_Blight/8bae80d9-576c-4930-8c75-f6df2be339de___RS_Late.B 4912.JPG  tomato early blight 
+tf_files/dataset_min/Tomato_Late_Blight/4be05670-885c-4a87-a22a-dfb89f0b15d0___RS_Late.B 6588.JPG  tomato early blight 
+tf_files/dataset_min/Tomato_Late_Blight/2e8f61d8-0d5d-46e3-a597-ede96855a4fe___RS_Late.B 5352.JPG  tomato early blight 
+tf_files/dataset_min/Tomato_Late_Blight/7e92fb02-314e-4cad-a30d-e478b216bce4___RS_Late.B 6890.JPG  tomato early blight 
+tf_files/dataset_min/Tomato_Late_Blight/1af98b62-adaf-43d0-b4eb-83ab3f1ee084___RS_Late.B 4908.JPG  tomato early blight 
+tf_files/dataset_min/Tomato_Leaf_Mold/3dde4593-cc1e-4d3e-8cb4-d1a87f9f5b8c___Crnl_L.Mold 8740.JPG  tomato early blight 
+tf_files/dataset_min/Tomato_Leaf_Mold/4ff6a1de-00e2-401b-b6c2-e523289a9228___Crnl_L.Mold 6715.JPG  tomato spider mite damage 
+tf_files/dataset_min/Tomato_Yellow_Leaf_Curl_Virus/1fab93a9-7b17-483d-9b6e-02a166cbfc36___UF.GRC_YLCV_Lab 08442.JPG  tomato bacterial spot 
+tf_files/dataset_min/Tomato_Yellow_Leaf_Curl_Virus/3f2fd843-100d-4293-b675-cadc7ea8e67a___UF.GRC_YLCV_Lab 08478.JPG  tomato bacterial spot 
