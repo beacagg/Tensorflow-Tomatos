@@ -6,10 +6,13 @@ CNNs, Deep Learning e Transfer learning para classificação de folhas de tomate
 
 ### Pré-requisitos
 * Python 3
-* Tensorflow
+* tensorflow=1.10.1 | 1.7.*
 * Tensorboard
-* Numpy
-* Matplotlib
+* numpy=1.14.5
+* matplotlib=2.2.2
+* opencv=2.4.9.1
+
+
 
 
 ### Treinamento
