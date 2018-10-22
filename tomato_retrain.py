@@ -1175,7 +1175,7 @@ if __name__ == '__main__':
   )
   parser.add_argument(
       '--print_misclassified_test_images',
-      default=r"/home/beatriz/PycharmProjects/TensorFlow-Tomatos/misclassified.txt",
+      default=r"/home/beatriz/PycharmProjects/Tensorflow-Tomatos/tf_files/misclassified.txt",
       help="""\
       Whether to print out a list of all misclassified test images.\
       """,
